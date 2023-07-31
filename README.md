@@ -1,6 +1,7 @@
 # homepage
 - Messaging. 
 - What is the message you are trying to communicate with the narrative visualization?
+
 The narrative visualization includes three charts from three different datasets, the CO2 emission rate change, energy source growth rate change, and energy consumption per person, and the datasets are extracted from ten years of data in the United States from the original data source.
 The narrative visualization indicates the relationship between energy usage and climate change, and it provides the trend of energy and climate change in the ten years. All of these are helpful for us to take some measures to decrease climate change. 
 
